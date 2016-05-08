@@ -16,6 +16,12 @@ Hopefully this will serve as a crutch to teaching
 [higher-order functions](http://eloquentjavascript.net/05_higher_order.html),
 amongst other things.
 
+As an end result I would hope this would help anyone reading understand
+when functions like `map` or `reduce` could solve problems they might
+otherwise solve with a loop, a series of conditional statements.
+Hopefully it might even serve to teach how to disseminate problems
+(or how I disseminate them).
+
 How
 ---
 
