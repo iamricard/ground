@@ -1,0 +1,19 @@
+{
+  "name": "ground",
+  "version": "1.0.0",
+  "description": "Ground ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcsole/ground.git"
+  },
+  "author": "Ricard Solé Casas <ricardsolecasas@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rcsole/ground/issues"
+  },
+  "homepage": "https://github.com/rcsole/ground#readme"
+}
